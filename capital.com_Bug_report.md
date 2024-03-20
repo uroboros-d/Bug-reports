@@ -7,4 +7,4 @@ Pесурс: https://capital.com
 
 РЕШЕНИЕ:
 
-ссылка на файл с багрепортом: https://docs.google.com/spreadsheets/d/1f4F8zTzTR-7vq5PcLKHzMOl6jZ_57lgrV6esKeeeQps/edit?usp=drive_link
+ссылка на файл с баг-репортом: https://docs.google.com/spreadsheets/d/1f4F8zTzTR-7vq5PcLKHzMOl6jZ_57lgrV6esKeeeQps/edit?usp=drive_link
