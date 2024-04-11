@@ -16,4 +16,4 @@
 
 РЕШЕНИЕ:
 
-ссылка на файл с чек-листами для 2 частей и баг-репортом: https://docs.google.com/spreadsheets/d/1hS910dMtq9qBLAyqIO1TUG4RGQwhXPUaRl2TmvEpJcA/edit?usp=drive_link
+ссылка на файл с чек-листами для 2 частей и __*баг-репортом*__: https://docs.google.com/spreadsheets/d/1hS910dMtq9qBLAyqIO1TUG4RGQwhXPUaRl2TmvEpJcA/edit?usp=drive_link
